@@ -1,6 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\tarun\\Downloads\\jakarta.servlet-api-5.0.0.jar"
-    ]
-}
